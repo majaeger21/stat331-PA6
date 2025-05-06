@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: Avery Stewart, Andrea Pareja, Lauren Hu, Meyli Jaeger
 format: html
 editor: visual
 embed-resources: true
