@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: "Meyli, Lauren, Andrea, Avery"
 format: html
 editor: visual
 embed-resources: true
